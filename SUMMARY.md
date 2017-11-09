@@ -1,12 +1,15 @@
 # Summary
 
 * [Introduction](README.md)
-    * [1-vue基础]()
+    * [vue基础]()
         * [1.1-传统方式开发](1-基础知识/1.1-传统方式开发.md)
         * [1.2-基于node的SPA开发](1-基础知识/1.2-基于node的SPA开发.md)
-    * [2-vue进阶]()
-    * [2-TypeScript编写]()
-        * [1.1-TypeScript支持](1-基础知识/1.1-TypeScript支持.md)
+    * [vue进阶]()
+    * [使用TypeScript]()
+        * [基础构建](使用TypeScript/基础构建.md)
+        * [声明文件](使用TypeScript/声明文件.md)
+        * [集成第三方js库](使用TypeScript/集成第三方js库.md)
+        * [vue装饰器](使用TypeScript/vue装饰器.md)
     * [3-搭建后台面板]()
         * [2.1-采用adminlte模板](3-搭建后台面板/2.1-采用adminlte模板.md)
         * [2.2-ie兼容](3-搭建后台面板/2.2-ie兼容.md)
@@ -17,6 +20,10 @@
         * [2.7-关闭sourceMap](3-搭建后台面板/2.7-关闭sourceMap.md)
         * [2.8-开启gzip编译](3-搭建后台面板/2.8-开启gzip编译.md)
         * [2.9-多入口提取相同模块.md](3-搭建后台面板/2.9-多入口提取相同模块.md)
+    * [附件]()
+        * [国内镜像加速](附件/国内镜像加速.md)
+
+
 
         * [图标svg](搭建后台面板/图标svg.md)
         * [路由懒加载](搭建后台面板/路由懒加载.md)
