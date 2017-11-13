@@ -6,7 +6,7 @@
         * [1.2-基于node的SPA开发](1-基础知识/1.2-基于node的SPA开发.md)
     * [vue进阶]()
     * [使用TypeScript]()
-        * [基础构建](使用TypeScript/基础构建.md)
+        * [章一.把一个vue项目修改成支持TS开发全过程](使用TypeScript/基章一.把一个vue项目修改成支持TS开发全过程础构建.md)
         * [声明文件](使用TypeScript/声明文件.md)
         * [集成第三方js库](使用TypeScript/集成第三方js库.md)
         * [vue装饰器](使用TypeScript/vue装饰器.md)
